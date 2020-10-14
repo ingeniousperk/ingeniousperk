@@ -1,4 +1,4 @@
-<div><img src="https://i.imgur.com/uun7pnZ.png" width="100%"></div>
+<div align="center"><img src="https://i.imgur.com/Sj342Qbl.png" width="60%"></div>
 ### Hi there <img src="https://i.imgur.com/GijsHxg.gif" width="30px">
 
 
