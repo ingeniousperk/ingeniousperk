@@ -1,4 +1,4 @@
-[Header](https://i.imgur.com/RP6Vscl.jpg)
+<img src="https://i.imgur.com/RP6Vscl.jpg" width="30%">
 ### Hi there <img src="https://i.imgur.com/GijsHxg.gif" width="30px">
 
 
