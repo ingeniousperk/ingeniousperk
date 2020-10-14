@@ -1,5 +1,5 @@
-![Header](https://drive.google.com/file/d/1bivefZPT6nqm_ZFHvetwqn3r4yMbALww/view?usp=sharing)
-### Hi there <img src="https://imgur.com/a/jLxmbBu" width="30px">
+![Header](https://drive.google.com/file/d/1bivefZPT6nqm_ZFHvetwqn3r4yMbALww/view?usp=sharing "Header")
+### Hi there <img src="https://i.imgur.com/GijsHxg.gif" width="30px">
 
 
 I am Sulaiman, currently an undergraduate student at Institut Teknologi Bandung. I had just fell in love with coding despite my main field is mathematics.
