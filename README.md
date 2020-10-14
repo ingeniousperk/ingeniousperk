@@ -12,6 +12,6 @@ So I'm kinda gonna explore more into **full-stack web development**, but I'm pre
 
 You can find me on...
 
-<img src="https://i.imgur.com/VAaOe1R.png" width="18px"> [@sulaimanhuang](https://www.instagram.com/sulaimahuang)
+> <img src="https://i.imgur.com/VAaOe1R.png" width="18px"> [@sulaimanhuang](https://www.instagram.com/sulaimahuang)
 
-<img src="https://i.imgur.com/yrXbfDt.png" width="18px"> [sulaii](https://www.linkedin.com/in/sulaii)
+> <img src="https://i.imgur.com/yrXbfDt.png" width="18px"> [sulaii](https://www.linkedin.com/in/sulaii)
